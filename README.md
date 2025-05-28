@@ -17,4 +17,4 @@ This demo illustrates how users can upload a TXT file, have it converted to EPUB
   - One file = one email
   - No marketing content or bulk sends
 
-https://demo.syosetu2epub.online/index.html
+https://demo.syosetu2epub.online/
